@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<ListOperations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <operations>
+    <Operation>
+      <OperationType>Перевод</OperationType>
+      <ID>0</ID>
+      <Value>0</Value>
+      <Date>2024-02-14T00:35:52.7623508+03:00</Date>
+      <Info>Номер: 0, Тип операции: Перевод, Сумма: 0, Дата: 14.02.2024 0:35:52</Info>
+    </Operation>
+    <Operation>
+      <OperationType>Перевод</OperationType>
+      <ID>1</ID>
+      <Value>0</Value>
+      <Date>2024-02-14T00:35:54.3001091+03:00</Date>
+      <Info>Номер: 1, Тип операции: Перевод, Сумма: 0, Дата: 14.02.2024 0:35:54</Info>
+    </Operation>
+    <Operation>
+      <OperationType>Перевод</OperationType>
+      <ID>2</ID>
+      <Value>0</Value>
+      <Date>2024-02-14T00:35:54.6216535+03:00</Date>
+      <Info>Номер: 2, Тип операции: Перевод, Сумма: 0, Дата: 14.02.2024 0:35:54</Info>
+    </Operation>
+    <Operation>
+      <OperationType>Перевод</OperationType>
+      <ID>3</ID>
+      <Value>0</Value>
+      <Date>2024-02-14T00:35:54.7771316+03:00</Date>
+      <Info>Номер: 3, Тип операции: Перевод, Сумма: 0, Дата: 14.02.2024 0:35:54</Info>
+    </Operation>
+    <Operation>
+      <OperationType>Перевод</OperationType>
+      <ID>4</ID>
+      <Value>0</Value>
+      <Date>2024-02-14T00:35:54.91947+03:00</Date>
+      <Info>Номер: 4, Тип операции: Перевод, Сумма: 0, Дата: 14.02.2024 0:35:54</Info>
+    </Operation>
+    <Operation>
+      <OperationType>Перевод</OperationType>
+      <ID>5</ID>
+      <Value>0</Value>
+      <Date>2024-02-14T00:38:47.3628656+03:00</Date>
+      <Info>Номер: 5, Тип операции: Перевод, Сумма: 0, Дата: 14.02.2024 0:38:47</Info>
+    </Operation>
+    <Operation>
+      <OperationType>Перевод</OperationType>
+      <ID>6</ID>
+      <Value>0</Value>
+      <Date>2024-02-14T00:38:47.6607412+03:00</Date>
+      <Info>Номер: 6, Тип операции: Перевод, Сумма: 0, Дата: 14.02.2024 0:38:47</Info>
+    </Operation>
+    <Operation>
+      <OperationType>Перевод</OperationType>
+      <ID>7</ID>
+      <Value>0</Value>
+      <Date>2024-02-14T00:38:47.8039719+03:00</Date>
+      <Info>Номер: 7, Тип операции: Перевод, Сумма: 0, Дата: 14.02.2024 0:38:47</Info>
+    </Operation>
+    <Operation>
+      <OperationType>Перевод</OperationType>
+      <ID>8</ID>
+      <Value>0</Value>
+      <Date>2024-02-14T00:38:47.9652287+03:00</Date>
+      <Info>Номер: 8, Тип операции: Перевод, Сумма: 0, Дата: 14.02.2024 0:38:47</Info>
+    </Operation>
+    <Operation>
+      <OperationType>Перевод</OperationType>
+      <ID>9</ID>
+      <Value>0</Value>
+      <Date>2024-02-14T00:38:48.1125948+03:00</Date>
+      <Info>Номер: 9, Тип операции: Перевод, Сумма: 0, Дата: 14.02.2024 0:38:48</Info>
+    </Operation>
+  </operations>
+</ListOperations>

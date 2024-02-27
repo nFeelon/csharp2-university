@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="xsd:string">14.02.2024 0:00:00 Владелец: dfgdfgdf, Баланс: 486 рублей, Тип депозита: Простой, Номер счёта: 2</anyType>
+  <anyType xsi:type="xsd:string">14.02.2024 0:00:00 Владелец: dfgdfgdf, Баланс: 486 рублей, Тип депозита: Простой, Номер счёта: 2</anyType>
+  <anyType xsi:type="xsd:string">14.02.2024 0:00:00 Владелец: dfgdfgdf, Баланс: 486 рублей, Тип депозита: Простой, Номер счёта: 2</anyType>
+  <anyType xsi:type="xsd:string">14.02.2024 0:00:00 Владелец: dfgdfgdf, Баланс: 486 рублей, Тип депозита: Простой, Номер счёта: 2</anyType>
+</ArrayOfAnyType>

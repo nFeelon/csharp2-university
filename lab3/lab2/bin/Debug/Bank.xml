@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<Account xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DepositList>
+    <Deposit>
+      <Number>2</Number>
+      <DepositType>Простой</DepositType>
+      <Balance>486</Balance>
+      <DateDeposit>2024-02-14T00:00:00</DateDeposit>
+      <Ads>false</Ads>
+      <Banking>false</Banking>
+      <SMS>false</SMS>
+      <Info>Владелец: dfgdfgdf, Баланс: 486 рублей, Тип депозита: Простой, Номер счёта: 2</Info>
+      <Owner>
+        <UserName>gdfgdd</UserName>
+        <UserSurname>dfgdfgdf</UserSurname>
+        <UserFathername>dfgdfgdf</UserFathername>
+        <UserBirthday />
+      </Owner>
+    </Deposit>
+    <Deposit>
+      <Number>2</Number>
+      <DepositType>Простой</DepositType>
+      <Balance>486</Balance>
+      <DateDeposit>2024-02-14T00:00:00</DateDeposit>
+      <Ads>false</Ads>
+      <Banking>false</Banking>
+      <SMS>false</SMS>
+      <Info>Владелец: dfgdfgdf, Баланс: 486 рублей, Тип депозита: Простой, Номер счёта: 2</Info>
+      <Owner>
+        <UserName>gdfgdd</UserName>
+        <UserSurname>dfgdfgdf</UserSurname>
+        <UserFathername>dfgdfgdf</UserFathername>
+        <UserBirthday />
+      </Owner>
+    </Deposit>
+    <Deposit>
+      <Number>2</Number>
+      <DepositType>Простой</DepositType>
+      <Balance>486</Balance>
+      <DateDeposit>2024-02-14T00:00:00</DateDeposit>
+      <Ads>false</Ads>
+      <Banking>false</Banking>
+      <SMS>false</SMS>
+      <Info>Владелец: dfgdfgdf, Баланс: 486 рублей, Тип депозита: Простой, Номер счёта: 2</Info>
+      <Owner>
+        <UserName>gdfgdd</UserName>
+        <UserSurname>dfgdfgdf</UserSurname>
+        <UserFathername>dfgdfgdf</UserFathername>
+        <UserBirthday />
+      </Owner>
+    </Deposit>
+    <Deposit>
+      <Number>2</Number>
+      <DepositType>Простой</DepositType>
+      <Balance>486</Balance>
+      <DateDeposit>2024-02-14T00:00:00</DateDeposit>
+      <Ads>false</Ads>
+      <Banking>false</Banking>
+      <SMS>false</SMS>
+      <Info>Владелец: dfgdfgdf, Баланс: 486 рублей, Тип депозита: Простой, Номер счёта: 2</Info>
+      <Owner>
+        <UserName>gdfgdd</UserName>
+        <UserSurname>dfgdfgdf</UserSurname>
+        <UserFathername>dfgdfgdf</UserFathername>
+        <UserBirthday />
+      </Owner>
+    </Deposit>
+  </DepositList>
+  <Owner />
+</Account>
